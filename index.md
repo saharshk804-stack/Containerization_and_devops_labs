@@ -5,13 +5,10 @@ title: Containerization and DevOps Lab
 
 # Containerization and DevOps Lab
 
-**Name** : Saharsh Kumar
-
-**SAP ID** : 500119028
-
-**Roll No** : R2142230035
-
-**Batch** : CCVT 6
+**Name** : Saharsh Kumar <br>
+**SAP ID** : 500119028   <br>
+**Roll No** : R2142230035   <br>
+**Batch** : CCVT 6   <br>
 
 **GitHub Repo Link** : https://github.com/saharshk804-stack/Containerization_and_devops_labs
 
